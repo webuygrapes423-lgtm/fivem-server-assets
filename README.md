@@ -1,0 +1,2 @@
+# fivem-server-assets
+images
